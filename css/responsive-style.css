@@ -1,0 +1,80 @@
+@media (max-width:991px)
+{
+    /* custom class */
+    .text-content
+    {
+        width: 100%;
+
+    }
+    /* nav brand */
+    .navigation-wrap .navbar-brand img
+    {
+        height: 3.8125rem;
+
+    }
+    .navigation-wrap
+    {
+        text-align: center;
+        background-color: var(--white-color);
+    }
+    .navigation-wrap .nav-link
+    {
+        line-height: 1,875rem;
+        background-color: white;
+    }
+    .testomonial-section .carousel-inner .carousel-item p {
+        padding: 0;
+
+
+    }
+/* baner design */
+.top-banner
+{
+   padding: 9.375rem 0 9.375rem;
+}
+}
+@media(max-width:767px)
+{
+    h1{
+        font-size: 2.8rem;
+
+    }
+    h2{
+        font-size: 2rem;
+        line-height: 2.0625rem;
+    }
+
+    .top-banner
+    {
+        padding: 10.875rem;
+
+    }
+
+    /* story section */
+    .story-section
+    {
+        height: auto;
+        padding: 3rem 0;
+        
+    }
+    .newsletter
+    {
+        width: 75%;
+    } 
+    .newsletter .main-btn
+    {
+        width: 100%;
+        margin-top: 1rem;
+        align-items: center;
+    }
+    .newsletter .form-control
+    {
+        width: 100%;
+        align-items: center;
+    }
+  
+
+
+
+
+}
