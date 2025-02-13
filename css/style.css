@@ -313,6 +313,28 @@ navigation-wrap
     color: white;
     background-color: grey;
 }
+    /* footer */
+
+    .footer
+    {
+        background-color: rgb(187, 51, 51);
+    }
+    .footer .footer-link
+    {
+        font-size: 1rem;
+        color: white;
+        padding: 0 1.8765;
+    }
+    .footer .footer-link a:hover
+    {
+        color: white;
+    }
+    footer a i{
+        font-size: 1.5rem;
+        color: white;
+        padding: 0 1rem;
+        
+    }
  
 
 
